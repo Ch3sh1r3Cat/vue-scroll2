@@ -1,6 +1,6 @@
 # vue-scroll2
 
-A simple smooth scroll plugin for Vue.js
+A lightweight smooth scroll plugin for Vue.js
 
 ## Installation
 
