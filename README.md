@@ -21,8 +21,6 @@ Vue.use(ScrollTo)
 You can pass an optional object for default duration and easing function
 
 ```javascript
-import ScrollTo from 'vue-scroll2'
-
 Vue.use(ScrollTo, { easing: 'linear', duration: 600 })
 ```
 
