@@ -40,4 +40,4 @@ goTo: function(anchor) {
 
 ## License
 
-[MIT](http://opensource.org/licenses/MIT)
+[ISC](https://opensource.org/licenses/ISC)
