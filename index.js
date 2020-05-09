@@ -1,7 +1,7 @@
 /**
  * A lightweight smooth scroll plugin for Vue.js
  *
- * @version 0.1.2
+ * @version 0.2.1
  * @author Charlie LEDUC <contact@graphique.io>
  * @license ISC
  * @requires 'vue'

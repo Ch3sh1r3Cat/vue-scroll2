@@ -1,7 +1,7 @@
 /**
  * A lightweight smooth scroll plugin for Vue.js
  *
- * @version 0.1.2
+ * @version 0.2.1
  * @author Charlie LEDUC <contact@graphique.io>
  * @license ISC
  * @requires 'vue'
@@ -41,9 +41,9 @@ export default {
         window.pageYOffset + (element.getBoundingClientRect().top - offset)
 
       var targetY =
-        document.body.scrollHeight - elementY < window.innerHeight
-          ? document.body.scrollHeight - window.innerHeight
-          : elementY
+        document.body.scrollHeight - elementY < window.innerHeight ?
+        document.body.scrollHeight - window.innerHeight :
+        elementY
       var diff = targetY - startingY
       var start
 
